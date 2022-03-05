@@ -1,0 +1,34 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: blueviolet;
+  color: azure;
+  text-align: center;
+}
+
+h2 {
+  background-color: brown;
+  color: aliceblue;
+  text-align: center;
+}
+
+h3 {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+ul,
+ol {
+  font-size: 22px;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
